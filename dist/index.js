@@ -26,7 +26,6 @@ module.exports = __toCommonJS(src_exports);
 function add(a, b) {
   return a + b;
 }
-console.log(add(3, 5));
 // Annotate the CommonJS export names for ESM import in node:
 0 && (module.exports = {
   add
