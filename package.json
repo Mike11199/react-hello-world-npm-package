@@ -7,6 +7,10 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mike11199/react-hello-world-npm-package.git"
+  },
   "license": "MIT",
   "dependencies": {
     "@types/node": "^20.12.12",
