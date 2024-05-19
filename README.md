@@ -14,6 +14,11 @@
 <td>Description</td>
 <td>test package</td>
 </tr>
+</tr>
+<tr>
+<td>npm link</td>
+<td>https://www.npmjs.com/package/react-hello-world-xpleriten</td>
+</tr>
 </table>
 
 
