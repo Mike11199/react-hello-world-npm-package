@@ -31,7 +31,7 @@ $ npm i react-hello-world-xpleriten
 ## Example Usage
 
 ```jsx
-import add from 'react-hello-world-xpleriten'
+import { add } from 'react-hello-world-xpleriten'
 
 console.log(add(20, 52))
 ```
